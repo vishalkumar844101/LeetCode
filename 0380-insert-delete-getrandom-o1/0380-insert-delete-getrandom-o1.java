@@ -1,8 +1,8 @@
 class RandomizedSet {
 
-    ArrayList<Integer> list;
-    HashMap<Integer, Integer> map;
-    Random random;
+    private ArrayList<Integer> list;
+    private HashMap<Integer, Integer> map;
+    private Random random;
 
     public RandomizedSet() {
         list = new ArrayList<>();
@@ -12,11 +12,15 @@ class RandomizedSet {
 
     public boolean insert(int val) {
 
+        // Already exists
         if (map.containsKey(val)) {
             return false;
         }
 
+        // Add value to the end
         list.add(val);
+
+        // Store value -> index
         map.put(val, list.size() - 1);
 
         return true;
@@ -24,20 +28,27 @@ class RandomizedSet {
 
     public boolean remove(int val) {
 
+        // Doesn't exist
         if (!map.containsKey(val)) {
             return false;
         }
 
+        // Index of value we want to remove
         int index = map.get(val);
 
-        int lastElement = list.get(list.size() - 1);
+        // Last element
+        int last = list.get(list.size() - 1);
 
-        list.set(index, lastElement);
+        // Put last element in the position of val
+        list.set(index, last);
 
-        map.put(lastElement, index);
+        // Update last element's new index
+        map.put(last, index);
 
+        // Remove last position
         list.remove(list.size() - 1);
 
+        // Remove val from map
         map.remove(val);
 
         return true;
@@ -50,11 +61,3 @@ class RandomizedSet {
         return list.get(index);
     }
 }
-
-/**
- * Your RandomizedSet object will be instantiated and called as such:
- * RandomizedSet obj = new RandomizedSet();
- * boolean param_1 = obj.insert(val);
- * boolean param_2 = obj.remove(val);
- * int param_3 = obj.getRandom();
- */
