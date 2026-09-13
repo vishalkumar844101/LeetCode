@@ -1,22 +1,16 @@
+import java.util.Arrays;
 class Solution {
-    public int hIndex(int[] citations) {
+    public static int hIndex(int[] citations) {
         int n = citations.length;
-        int[] count = new int[n + 1];
-
-        for (int c : citations) {
-            count[Math.min(c, n)]++;
-        }
-
-        int papers = 0;
-
-        for (int h = n; h >= 0; h--) {
-            papers += count[h];
-
-            if (papers >= h) {
-                return h;
+        int maxH = 0;
+        Arrays.sort(citations);
+        for(int i = 0; i<n; i++){
+            if(citations[i]>=n-i){
+                maxH = Math.max(maxH ,n-i);
             }
         }
-
-        return 0;
-    }
+        return maxH;
+        
+    }   
+    
 }
