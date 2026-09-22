@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chootu01/LeetCode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chootu01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chootu01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chootu01/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/chootu01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chootu01/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
