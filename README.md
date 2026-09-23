@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chootu01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chootu01/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chootu01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chootu01/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Bit Manipulation
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chootu01/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
