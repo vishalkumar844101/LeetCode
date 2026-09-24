@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chootu01/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chootu01/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chootu01/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/chootu01/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chootu01/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chootu01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chootu01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chootu01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chootu01/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/chootu01/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
