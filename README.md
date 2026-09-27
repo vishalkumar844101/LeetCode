@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chootu01/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chootu01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/chootu01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chootu01/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chootu01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chootu01/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/chootu01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/chootu01/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chootu01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/chootu01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chootu01/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chootu01/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/chootu01/LeetCode/tree/master/0058-length-of-last-word) |
