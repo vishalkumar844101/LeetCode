@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/chootu01/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chootu01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2784-check-if-array-is-good](https://github.com/chootu01/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chootu01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chootu01/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2784-check-if-array-is-good](https://github.com/chootu01/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chootu01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chootu01/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chootu01/LeetCode/tree/master/0274-h-index) |
+| [2784-check-if-array-is-good](https://github.com/chootu01/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
 | ------- |
