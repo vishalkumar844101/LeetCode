@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/chootu01/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/chootu01/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/chootu01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/chootu01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0551-student-attendance-record-i](https://github.com/chootu01/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/chootu01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chootu01/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -211,8 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chootu01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/chootu01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chootu01/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/chootu01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
