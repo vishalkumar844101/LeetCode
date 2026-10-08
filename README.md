@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chootu01/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/chootu01/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1306-jump-game-iii](https://github.com/chootu01/LeetCode/tree/master/1306-jump-game-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chootu01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/chootu01/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/chootu01/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -232,4 +233,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/chootu01/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1306-jump-game-iii](https://github.com/chootu01/LeetCode/tree/master/1306-jump-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/chootu01/LeetCode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
