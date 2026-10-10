@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/chootu01/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1306-jump-game-iii](https://github.com/chootu01/LeetCode/tree/master/1306-jump-game-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chootu01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chootu01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/chootu01/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/chootu01/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chootu01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chootu01/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chootu01/LeetCode/tree/master/0274-h-index) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chootu01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/chootu01/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/chootu01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chootu01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chootu01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chootu01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -245,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/chootu01/LeetCode/tree/master/1306-jump-game-iii) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chootu01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chootu01/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
