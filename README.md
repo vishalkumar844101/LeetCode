@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chootu01/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/chootu01/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chootu01/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/chootu01/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chootu01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/chootu01/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chootu01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/chootu01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chootu01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/chootu01/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/chootu01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/chootu01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chootu01/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/chootu01/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
